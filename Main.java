@@ -5,7 +5,7 @@ is gotten from the previous 2 numbers*/
 public class Main {
 
     public static void main(String[] args) {
-        /*int prev2 = 0;
+        int prev2 = 0;
         int prev1 = 1;
 
         for (int fibo = 0; fibo < 19; fibo++) {
@@ -14,7 +14,7 @@ public class Main {
 
             prev2 =prev1;
             prev1 =newfibo;
-        }*/
+        }
 
         // DSA Arrays checking the smallest number in array
 
